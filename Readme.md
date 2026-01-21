@@ -13,7 +13,7 @@ By leveraging paired single-cell RNA sequencing (scRNA-seq) and bulk transcripto
 ### 📢 For Reviewers and Editors
 If you are a reviewer or editor requiring early access to the code for assessment purposes, or if you have specific questions regarding the methodology, please do not hesitate to contact the corresponding author directly. We are happy to share the scripts upon reasonable request.
 
-📧 **Contact:** [Insert Your Email Here]
+📧 **Contact:** [xdk1207@sina.com]
 
 ## 📂 Data Availability
 The datasets analyzed in this study are publicly available in the Gene Expression Omnibus (GEO):
